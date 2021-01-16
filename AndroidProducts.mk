@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_ginkgo.mk
+    $(LOCAL_DIR)/stag_ginkgo.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_ginkgo-user \
-    potato_ginkgo-userdebug \
-    potato_ginkgo-eng
+    stag_ginkgo-user \
+    stag_ginkgo-userdebug \
+    stag_ginkgo-eng
